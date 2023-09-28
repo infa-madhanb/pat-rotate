@@ -5,7 +5,7 @@
         "namespace": "kiran-test",
         "secret1": "test",
         "secret2": "test1",
-        "skipvault": "true"
+        "skipvault": "true",
         "vaultaddr": "https://vaultent.us.eksqa.cloudtrust.rocks"
       },
       {
