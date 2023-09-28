@@ -5,14 +5,15 @@
         "namespace": "kiran-test",
         "secret1": "test",
         "secret2": "test1",
+        "skipvault": "true"
         "vaultaddr": "https://vaultent.us.eksqa.cloudtrust.rocks"
       },
       {
-        "cluster": "cloudtrust-shrd-eks-prod-apne3",
-        "namespace": "infrastructure-prod-orion",
-        "secret1": "git-secret",
-        "secret2": "orion-ops-creds",
-        "vaultaddr": "https://ha-vault.clt-shrddr.apne3.eksprd.cloudtrust.rocks"
+        "cluster": "ichsnp-useast1-kube-controlplane",
+        "namespace": "test",
+        "secret1": "test",
+        "secret2": "test1",
+        "vaultaddr": "https://vaultent.us.eksqa.cloudtrust.rocks"
       }
     ]
 }
