@@ -13,6 +13,7 @@
         "namespace": "test",
         "secret1": "test",
         "secret2": "test1",
+        "skipvault": "false",
         "vaultaddr": "https://vaultent.us.eksqa.cloudtrust.rocks"
       }
     ]
