@@ -6,14 +6,14 @@
         "secret1": "test",
         "secret2": "test1",
         "skipvault": "true",
-        "vaultaddr": "https://vaultent.us.eksqa.cloudtrust.rocks"
+        "vaultaddr": "https://ha-vault.eks.iicsqa.uswest2.cloudtrust.rocks"
       },
       {
         "cluster": "ichsnp-useast1-kube-controlplane",
         "namespace": "test",
         "secret1": "test",
         "secret2": "test1",
-        "vaultaddr": "https://vaultent.us.eksqa.cloudtrust.rocks"
+        "vaultaddr": "https://ha-vault.eks.iicsqa.uswest2.cloudtrust.rocks"
       }
     ]
 }
